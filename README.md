@@ -37,7 +37,7 @@
 <article>
     <h2>Conservation Strategies</h2>
     <p>Preserving biodiversity requires concerted efforts. Learn about the innovative strategies employed by conservationists worldwide, including protected areas, community involvement, and technological advancements.Conservation strategies are multifaceted approaches aimed at safeguarding the planet's biodiversity and ecosystems. Protected areas, such as national parks and wildlife reserves, serve as havens for endangered species and critical habitats. Sustainable resource management promotes responsible use of natural resources, minimizing negative impacts on the environment. Captive breeding programs help revive populations of threatened species, ensuring genetic diversity. International collaboration and treaties address conservation on a global scale, acknowledging that many species traverse borders. Public awareness campaigns and education play a pivotal role in fostering a sense of responsibility and advocacy for wildlife conservation. Through these strategies, conservationists work to mitigate the impacts of habitat loss, climate change, and other threats, striving to create a sustainable coexistence between humanity and the natural world.</p>
-    <img src="images/conservation.jpg" alt="Conservation" class="article-image">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUQsPF0GYch2BqnkodosBD5IL4PqLbuXalw&s">
     <p>By adopting these strategies, we can make a significant impact in safeguarding endangered species and their habitats.</p>
 </article>
 
